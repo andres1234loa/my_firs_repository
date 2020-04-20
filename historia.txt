@@ -4,7 +4,7 @@ y ser profesor de programacion
 
 este es una linea que se le agrego despues 
 
-
+para validar un ejemplo
 
 
 yo estudie en una escuela de 
@@ -12,3 +12,4 @@ programacion en la escuela de javascript
 desde cero
 
 mas adelante quiero estudiar mas
+y robotica
