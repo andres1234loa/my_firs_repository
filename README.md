@@ -6,3 +6,4 @@ este es un repositorio adonde se esta aprendiendo a programar desde cero
 es una de las grandes cosas que tiene esta industria es que podemos acontrolar las cosas que las computadoras puede hacer 
 
 [siganos](http://www.google.com "siganos")
+💚
