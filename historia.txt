@@ -20,3 +20,4 @@ mas adelante quiero estudiar mas
 
 este es una repositorio de mas
 y vamos hacer un peticion al reposito
+esta es una historia que se escribio en el editor de vim
